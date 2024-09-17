@@ -1,4 +1,5 @@
 Movies & Subscriptions Management System
+
 This web application is a Movies & Subscriptions Management System, built as a full-stack project using React.js for the front-end and Node.js with Express.js for the back-end. The app enables users to manage movies and member subscriptions efficiently, including CRUD operations for movies, members, and their respective subscriptions.
 
 Key Features:
